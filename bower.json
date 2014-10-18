@@ -1,0 +1,21 @@
+{
+  "name": "angular-app-skeleton",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chrisg93/angular-app-skeleton",
+  "authors": [
+    "Christophe Gasnier <chrisg93@hotmail.com>"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-less": "~3.2.0",
+    "angularjs": "~1.2.26"
+  }
+}
